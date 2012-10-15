@@ -1,0 +1,12 @@
+{
+  "name": "keyname",
+  "repo": "component/keyname",
+  "description": "Keyboard event key name utility",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
