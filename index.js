@@ -37,5 +37,5 @@ var map = {
  */
 
 module.exports = function(n){
-  return map[n];
+  return map[n] || String.fromCharCode(n).toLowerCase();
 };
