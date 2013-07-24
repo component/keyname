@@ -7,6 +7,10 @@
 
     $ component install component/keyname
 
+or
+
+    $ npm install keyname
+
 ## API
 
 ```js
