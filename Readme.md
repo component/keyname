@@ -21,6 +21,12 @@ keyname(27);
 
 keyname(23123123);
 // => undefined
+
+keyname(65);
+// => "a"
+
+keyname(49);
+// => "1"
 ```
 
 ## Keys
@@ -47,6 +53,8 @@ keyname(23123123);
   - ins
   - del
   - meta
+  - a-z
+  - 0-9
 
 ## License
 
