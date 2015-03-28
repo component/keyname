@@ -2,7 +2,7 @@
   "name": "keyname",
   "repo": "component/keyname",
   "description": "Keyboard event key name utility",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": ["keys", "keyboard", "event"],
   "dependencies": {},
   "development": {},
